@@ -138,7 +138,6 @@ Before visualising the data, several cleaning steps were applied:
 | **Product strategy** | Men's Street Footwear leads in both volume and profit — pricing in the $45–$65 band appears optimal and should be protected |
 | **Channel growth** | Online sales deliver the highest margins; growing the online channel through digital marketing and better fulfilment would improve overall profitability |
 | **Outlet consistency** | Investigate which products, regions, or periods drive low-margin outlet transactions to reduce variability |
-| **Next steps** | The dataset includes invoice dates not yet used — a monthly or quarterly trend chart would reveal seasonality and support demand forecasting |
 
 ---
 
@@ -148,5 +147,3 @@ Before visualising the data, several cleaning steps were applied:
 - **matplotlib** — base plotting library
 - **seaborn** — statistical visualisations (line, bar, scatter, box plots)
 - **Jupyter Notebook** — interactive analysis environment
-
----
